@@ -22,7 +22,7 @@
 
 🎓 **BSc IT Graduate**  
 💻 Frontend Developer with strong **HTML, CSS & JavaScript** foundation  
-⚛️ Building modern, scalable UI using **React & Redux**  
+⚛️ Building modern, scalable UI using **React**  
 🎨 Passionate about **clean UI, animations & responsive design**  
 🚀 Continuously improving **JavaScript & React ecosystem**
 
