@@ -1,3 +1,4 @@
+<!-- ===================== HEADER ===================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%20👋,%20I'm%20Rishabh%20Yadav&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <p align="center">
@@ -20,10 +21,10 @@
 ## 👨‍💻 About Me
 
 🎓 **BSc IT Graduate**  
-💻 Frontend / Full Stack Developer with strong **HTML, CSS & JavaScript** foundation  
-⚛️ Building modern & scalable UI using **React & Redux**  
-🎨 Passionate about **animations, clean UI & responsive design**  
-🚀 Continuously improving **JavaScript internals & React ecosystem**
+💻 Frontend Developer with strong **HTML, CSS & JavaScript** foundation  
+⚛️ Building modern, scalable UI using **React & Redux**  
+🎨 Passionate about **clean UI, animations & responsive design**  
+🚀 Continuously improving **JavaScript & React ecosystem**
 
 ---
 
@@ -43,16 +44,16 @@
 
 ### 🌦️ Weather App
 - Real-time weather using API  
-- Responsive & clean UI  
-- React based architecture  
+- Fully responsive UI  
+- Built with React  
 
-🔗 **Live Demo:** Coming Soon  
-🔗 **Source Code:** Coming Soon  
+🔗 Live Demo: Coming Soon  
+🔗 Source Code: Coming Soon  
 
 </td>
 
 <td width="50%">
-  <img src="https://user-images.githubusercontent.com/placeholder/weather.gif" />
+  <img src="https://via.placeholder.com/450x260/203a43/ffffff?text=Weather+App+Preview" />
 </td>
 </tr>
 </table>
@@ -95,7 +96,7 @@
 
 ---
 
-## 🐍 Contribution Graph Animation
+## 🐍 Contribution Snake Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rishabhydv123/Rishabhydv123/output/github-contribution-grid-snake.svg" />
