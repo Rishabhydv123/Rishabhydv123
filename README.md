@@ -1,4 +1,4 @@
-<!-- ===================== HEADER ===================== -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%20👋,%20I'm%20Rishabh%20Yadav&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <p align="center">
