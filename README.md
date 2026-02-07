@@ -1,4 +1,10 @@
-<img alt="coding" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" height="250" width="100%">
+<img 
+  src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" 
+  alt="coding" 
+  width="100%" 
+  height="250"
+/>
+
 
 <h1 align="center">Hi 👋, I'm Rishabh Yadav</h1>
 <h3 align="center">Java Full Stack Developer | Web Developer</h3>
