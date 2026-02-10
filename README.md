@@ -51,3 +51,8 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabhydv123" alt="Rishabhydv123" />
 </p>
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
+
