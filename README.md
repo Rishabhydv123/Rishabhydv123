@@ -17,17 +17,6 @@
 </p>
 
 ---
-
-## 🚀 About Me
-
-- 🌱 I’m currently learning **Java Full Stack Development**
-- 👨‍💻 All of my projects are available at  
-  👉 https://github.com/Rishabhydv123
-- 📫 How to reach me **rishabhyadav55888@gmail.com**
-- ⚡ Fun fact: **If brain is not empty, keep coding ☕**
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -37,10 +26,19 @@
   <a href="https://www.linkedin.com/in/linkedin.com/in/rishabhydv003 ">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
+  <a href="https://instagram.com/_rishabh_yadhuvanshi_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
 </p>
+------
+
+## 🚀 About Me
+
+- 🌱 I’m currently learning **Java Full Stack Development**
+- 👨‍💻 All of my projects are available at  
+  👉 https://github.com/Rishabhydv123
+- 📫 How to reach me **rishabhyadav55888@gmail.com**
+- ⚡ Fun fact: **If brain is not empty, keep coding ☕**
 
 ---
 
