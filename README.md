@@ -48,20 +48,6 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabhydv123" alt="Rishabhydv123" />
-</p>
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabhydv123&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rishabhydv123&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabhydv123&layout=compact&theme=radical&hide_border=true" />
-</p>
 
 
 
