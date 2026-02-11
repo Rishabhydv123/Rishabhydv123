@@ -38,13 +38,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishabhydv123&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabhydv123&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" />
-</p>
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
