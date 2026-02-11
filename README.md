@@ -9,19 +9,6 @@
 <h3 align="center">Java Full Stack Developer | Web Developer</h3>
 
 <br>
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Rishabhydv123">
-    <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/linkedin.com/in/rishabhydv003 ">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://instagram.com/_rishabh_yadhuvanshi_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
 
 
 <img align="right" alt="coding" width="400" src="https://64.media.tumblr.com/0870408ef69639327475f93f665ac490/92c7bc6db974c4d5-ab/s2048x3072/ee299068d73c2a392fc857eef0b8dd7bb830351e.gif">
