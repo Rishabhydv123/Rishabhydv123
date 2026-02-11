@@ -5,7 +5,6 @@
   height="250"
 />
 
-
 <h1 align="center">Hi 👋, I'm Rishabh Yadav</h1>
 <h3 align="center">Java Full Stack Developer | Web Developer</h3>
 
@@ -17,11 +16,31 @@
   <img src="https://komarev.com/ghpvc/?username=Rishabhydv123&label=Profile%20views&color=0e75b6&style=flat" alt="Rishabhydv123" />
 </p>
 
+---
+
+## 🚀 About Me
+
 - 🌱 I’m currently learning **Java Full Stack Development**
 - 👨‍💻 All of my projects are available at  
   👉 https://github.com/Rishabhydv123
 - 📫 How to reach me **rishabhyadav55888@gmail.com**
 - ⚡ Fun fact: **If brain is not empty, keep coding ☕**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Rishabhydv123">
+    <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/linkedin.com/in/rishabhydv003 ">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
@@ -38,17 +57,8 @@
 
 ---
 
-
-
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabhydv123&theme=radical&hide_border=true" />
 </p>
-
-
-
-
-
-
-
