@@ -6,7 +6,7 @@
 />
 
 <h1 align="center">Hi 👋, I'm Rishabh Yadav</h1>
-<h3 align="center">Java Full Stack Developer | Web Developer</h3>
+<h3 align="center">Frontend Developer | React & JavaScript | Learnig JAVA FULL STACK DEVELOPER</h3>
 
 <br>
 
