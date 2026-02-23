@@ -1,40 +1,42 @@
-<img 
-  src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" 
-  alt="coding" 
-  width="100%" 
-  height="250"
-/>
-
-<h1 align="center">Hi 👋, I'm Rishabh Yadav</h1>
-<h3 align="center">Frontend Developer | React & JavaScript | Learnig JAVA FULL STACK DEVELOPER</h3>
-
-<br>
-
-
-<img align="right" alt="coding" width="400" height="400" src="https://64.media.tumblr.com/0870408ef69639327475f93f665ac490/92c7bc6db974c4d5-ab/s2048x3072/ee299068d73c2a392fc857eef0b8dd7bb830351e.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Rishabhydv123&label=Profile%20views&color=0e75b6&style=flat" alt="Rishabhydv123" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" 
+       alt="coding" 
+       width="100%" 
+       height="250"/>
 </p>
 
+<h1 align="center">Hi 👋, I'm Rishabh Yadav</h1>
+<h3 align="center">Frontend Developer | React & JavaScript | Learning Java Full Stack Developer</h3>
+
 ---
+
+<table>
+<tr>
+<td width="60%">
 
 ## 🚀 About Me
 
 - 🌱 I’m currently learning **Java Full Stack Development**
 - 👨‍💻 All of my projects are available at  
   👉 https://github.com/Rishabhydv123
-- 📫 How to reach me **rishabhyadav55888@gmail.com**
+- 📫 How to reach me: **rishabhyadav55888@gmail.com**
 - ⚡ Fun fact: **If brain is not empty, keep coding ☕**
+
+</td>
+
+<td width="40%" align="center">
+  <img alt="coding" width="350" 
+       src="https://64.media.tumblr.com/0870408ef69639327475f93f665ac490/92c7bc6db974c4d5-ab/s2048x3072/ee299068d73c2a392fc857eef0b8dd7bb830351e.gif"/>
+</td>
+</tr>
+</table>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 
 <p align="center">
-<br/>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,git,github,vscode" />
-<br/>
 </p>
 
 ---
