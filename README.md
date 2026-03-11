@@ -119,10 +119,6 @@
 
 ---
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Rishabh+Yadav;Frontend+Developer;React+%7C+JavaScript+Developer;Future+Java+Full+Stack+Developer" />
-</p>
----
 
 <p align="center">
  **Code never lies, comments sometimes do.**
