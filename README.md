@@ -62,7 +62,7 @@
 ### ⚙️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,IntelliJ IDEA,eclipse " />
 </p>
 
 ### 📚 Currently Learning
