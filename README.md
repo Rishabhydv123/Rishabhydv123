@@ -56,7 +56,7 @@
 ### 💻 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,java" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux" />
 </p>
 
 ### ⚙️ Tools
@@ -113,16 +113,7 @@
 
 ---
 
-# 🚀 Featured Projects
 
-⭐ Add your best repositories here
-
-- 🔹 React Portfolio Website
-- 🔹 JavaScript Weather App
-- 🔹 React Todo Application
-- 🔹 Java Full Stack Project (Coming Soon)
-
----
 
 # 💡 Developer Quote
 
