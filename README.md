@@ -39,7 +39,7 @@
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="http://linkedin.com/in/rishabhydv003">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -117,10 +117,10 @@
 
 # 💡 Developer Quote
 
-> **"First, solve the problem. Then, write the code."** – John Johnson
+> **"First, solve the problem. Then, write the code."**
 
 ---
 
 <p align="center">
-🔥 Made with passion by <b>Rishabh Yadav</b>
+🔥 **"Code never lies, comments sometimes do."**
 </p>
