@@ -62,7 +62,7 @@
 ### ⚙️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,IntelliJ IDEA,eclipse " />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse" />
 </p>
 
 ### 📚 Currently Learning
@@ -98,9 +98,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rishabhydv123&theme=radical&no-frame=true&row=1&column=6"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Rishabhydv123&theme=radical&no-frame=true&row=1&column=6&margin-w=10"/>
 </p>
 
 ---
@@ -122,5 +120,5 @@
 ---
 
 <p align="center">
-🔥 **"Code never lies, comments sometimes do."**
+ **Code never lies, comments sometimes do.**
 </p>
