@@ -123,3 +123,5 @@
 <p align="center">
  **Code never lies, comments sometimes do.**
 </p>
+
+[![](https://visitcount.itsvg.in/api?id=Rishabhydv123&icon=2&color=0)](https://visitcount.itsvg.in)
