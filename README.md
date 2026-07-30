@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Rishabh Yadav</h1>
 
 <h3 align="center">
-🚀 Frontend Developer | React & JavaScript | Learning Java Full Stack
+🚀 Java Full Stack Developer | React.js | Spring Boot | Java | MySQL
 </h3>
 
 <p align="center">
@@ -21,13 +21,17 @@
 
 # 👨‍💻 About Me
 
-- 🌱 Currently learning **Java Full Stack Development**
-- ⚛️ Building projects using **React & JavaScript**
-- 💡 Interested in **Web Development & Software Engineering**
-- 📂 All projects available at  
-  👉 https://github.com/Rishabhydv123
-- 📫 Reach me: **rishabhyadav55888@gmail.com**
-- ☕ Fun fact: **If brain is not empty, keep coding**
+- 💼 Java Full Stack Developer passionate about building scalable web applications.
+- 🌱 Continuously learning advanced Spring Boot, Microservices, and REST APIs.
+- ⚛️ Experienced in developing responsive UIs using React.js.
+- ☕ Skilled in Java, Spring Boot, MySQL, and modern frontend technologies.
+- 💡 Interested in Software Engineering, Full Stack Development, and Problem Solving.
+- 📂 Explore my projects:
+  👉 **https://github.com/Rishabhydv123**
+- 📫 Reach me:
+  **rishabhyadav55888@gmail.com**
+- ⚡ Fun Fact:
+  **Code. Learn. Improve. Repeat. 🚀**
 
 ---
 
@@ -39,7 +43,7 @@
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="http://linkedin.com/in/rishabhydv003">
+<a href="https://linkedin.com/in/rishabhydv003">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -53,22 +57,38 @@
 
 # 🛠 Tech Stack
 
-### 💻 Frontend Development
+## 💻 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap"/>
 </p>
 
-### ⚙️ Tools
+## ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse" />
+<img src="https://skillicons.dev/icons?i=java,spring,maven"/>
 </p>
 
-### 📚 Currently Learning
+## 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,mysql" />
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+## 🛠 Tools & IDEs
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,postman"/>
+</p>
+
+---
+
+# 🚀 Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,java,spring,mysql,git,github,vscode,postman"/>
+
 </p>
 
 ---
@@ -98,7 +118,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rishabhydv123&theme=radical&no-frame=true&row=1&column=6&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Rishabhydv123&theme=radical&no-frame=true&row=1&column=6&margin-w=10"/>
 </p>
 
 ---
@@ -111,17 +131,29 @@
 
 ---
 
+# 📈 GitHub Activity Graph
 
-
-# 💡 Developer Quote
-
-> **"First, solve the problem. Then, write the code."**
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabhydv123&theme=react-dark&hide_border=true"/>
+</p>
 
 ---
 
+# 🎯 Current Focus
+
+- 🚀 Building Full Stack Applications with React & Spring Boot
+- 📚 Exploring Spring Security & JWT Authentication
+- ☁️ Learning REST APIs and Deployment
+- 💻 Solving Java & DSA problems regularly
+
+---
+
+# 💡 Favorite Quote
+
+> **"First, solve the problem. Then, write the code."** — John Johnson
 
 <p align="center">
- **Code never lies, comments sometimes do.**
+⭐ Thanks for visiting my profile! Let's build something amazing together. 🚀
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=Rishabhydv123&icon=2&color=0)](https://visitcount.itsvg.in)
